@@ -1,0 +1,6 @@
+requests
+password-strength
+matplotlib
+colorama
+pandas
+numpy
